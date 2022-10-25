@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title
 
 The source code can be used secret in action for client to view updates on the site and make it easier for the customer to identify the additions.
 
-![The Horiseon webpage.](./Assets/01-html-css-git-work done-demo.png)
+![The Horiseon webpage.]([./Assets/01-html-css-git-work done-demo.png](https://github.com/amarfiguig/01-HTML-Git-CSS/blob/8083ffbfca1309d4d78987fbaebcd5b22c4ff820/Assets/01-html-css-git-work%20done-demo.png))
 
 
 ## License
